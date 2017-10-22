@@ -1,3 +1,3 @@
 # demo-repo
-User A makes changes
-User B makes changes
+User A makes edits
+User B makes edits
